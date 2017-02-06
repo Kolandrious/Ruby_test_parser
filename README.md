@@ -5,4 +5,5 @@
 * i love ruby best lang ewa
 
 `chmod -x main.rb`
+
 `./main.rb www.internet-shop.com/es/dogs/snack-and-bones-dog output.csv`
