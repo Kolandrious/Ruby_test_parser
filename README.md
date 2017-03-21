@@ -2,7 +2,6 @@
 * never parsed anything
 * wasnt coding ruby since a couple of months
 * takes 100-150 secs to me
-* i love ruby best lang ewa
 
 `chmod -x main.rb`
 
