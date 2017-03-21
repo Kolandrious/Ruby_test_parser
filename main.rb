@@ -3,7 +3,6 @@ t = Time.now.to_f
 require 'open-uri'
 require 'nokogiri'
 require 'csv'
-require 'benchmark'
 
 # url to the product page, csv-file to write into
 def parse_multiproduct(url_multiproduct, csv_file)
